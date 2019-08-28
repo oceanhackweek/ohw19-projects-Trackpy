@@ -54,4 +54,6 @@ Gaube, P., Braun, C.D., Lawson, G.L., McGillicuddy, D.J., Della Penna, A., Skoma
 
 
 
-
+### Required Packages
+Folium:
+conda install folium -c conda-forge
