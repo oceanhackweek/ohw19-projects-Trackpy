@@ -1,6 +1,6 @@
 # Trackpy
 
-## Connecting animal tracking data to mesoscale oceanographic data
+## Connecting animal tracking and mesoscale oceanographic data
 ***
 
 #### Collaborators
@@ -57,3 +57,9 @@ Gaube, P., Braun, C.D., Lawson, G.L., McGillicuddy, D.J., Della Penna, A., Skoma
 ### Required Packages
 Folium:
 conda install folium -c conda-forge
+
+ftplib
+
+getpass
+
+
