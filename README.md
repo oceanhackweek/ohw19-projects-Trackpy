@@ -5,9 +5,9 @@
 
 #### Collaborators
 
-Hannah Blondin
-James Fahlbusch (musculus at stanford dot edu)
-Will Oestreich
++ Hannah Blondin
++ James Fahlbusch (musculus at stanford dot edu)
++ Will Oestreich
 
 ***
 
