@@ -26,10 +26,17 @@ Provide an illustrative example for Python beginners to link animal movement dat
 
 2. AVISO+ Mesoscale Eddy Trajectory Atlas Product 
  
-### Process
-1. 
+### Workflow
+1. Upload animal track data
 
-2. 
+2. Access AVISO+ mesoscale eddy data product
+
+3. Slice mesoscale eddy dataset for spatiotemporal domain of animal tracks
+
+4. Visualize animal-feature interactions in space and time
+
+5. Summarize interactions
+
 
 ### References
 Abrahms, B., Scales, K.L., Hazen, E.L., Bograd, S.J., Schick, R.S., Robinson, P.W. and Costa, D.P., 2018. Mesoscale activity facilitates energy gain in a top predator. Proceedings of the Royal Society B: Biological Sciences, 285(1885), p.20181101.
