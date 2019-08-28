@@ -32,4 +32,16 @@ Provide an illustrative example for Python beginners to link animal movement dat
 2. 
 
 ### References
+Abrahms, B., Scales, K.L., Hazen, E.L., Bograd, S.J., Schick, R.S., Robinson, P.W. and Costa, D.P., 2018. Mesoscale activity facilitates energy gain in a top predator. Proceedings of the Royal Society B: Biological Sciences, 285(1885), p.20181101.
+
+Braun, C.D., Gaube, P., Sinclair-Taylor, T.H., Skomal, G.B. and Thorrold, S.R., 2019. Mesoscale eddies release pelagic sharks from thermal constraints to foraging in the ocean twilight zone. Proceedings of the National Academy of Sciences, p.201903067.
+
+Chelton, D.B., Schlax, M.G. and Samelson, R.M., 2011. Global observations of nonlinear mesoscale eddies. Progress in Oceanography, 91(2), pp.167-216.
+
+Dodge, S., Bohrer, G., Weinzierl, R., Davidson, S.C., Kays, R., Douglas, D., Cruz, S., Han, J., Brandes, D. and Wikelski, M., 2013. The environmental-data automated track annotation (Env-DATA) system: linking animal tracks with environmental data. Movement Ecology, 1(1), p.3.
+
+Gaube, P., Braun, C.D., Lawson, G.L., McGillicuddy, D.J., Della Penna, A., Skomal, G.B., Fischer, C. and Thorrold, S.R., 2018. Mesoscale eddies influence the movements of mature female white sharks in the Gulf Stream and Sargasso Sea. Scientific reports, 8(1), p.7363.
+
+
+
 
