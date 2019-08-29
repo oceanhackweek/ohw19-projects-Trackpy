@@ -58,6 +58,8 @@ Gaube, P., Braun, C.D., Lawson, G.L., McGillicuddy, D.J., Della Penna, A., Skoma
 Folium:
 conda install folium -c conda-forge
 
+matplotlib
+
 ftplib
 
 getpass
