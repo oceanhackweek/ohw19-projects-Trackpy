@@ -21,24 +21,25 @@ Understanding the underlying oceanographic drivers of the movements of pelagic m
 
 ### Goals
 
-Provide an illustrative example for Python beginners to link animal movement data with databases of mesoscale oceanographic features and visualize these interactions.
+Provide an illustrative example for Python beginners to link animal movement data with remotely sensed oceanographic data (SST) and databases of mesoscale oceanographic features and visualize these interactions.
 
 ### Datasets
-
 1. Simulated loggerhead turtle (Caretta caretta) satellite tag tracks.
 
 2. AVISO+ Mesoscale Eddy Trajectory Atlas Product 
+
+3. Sea surface temperature, blended, global, 2002-2014, EXPERIMENTAL 5-day composite
  
 ### Workflow
 1. Upload animal track data
 
-2. Access AVISO+ mesoscale eddy data product
+2. Link animal movements in space and time to remotely-sensed SST
 
-3. Slice mesoscale eddy dataset for spatiotemporal domain of animal tracks
+3. Access AVISO+ mesoscale eddy data product
 
-4. Visualize animal-feature interactions in space and time
+4. Slice mesoscale eddy dataset for spatiotemporal domain of animal tracks
 
-5. Summarize interactions
+5. Visualize animal-feature interactions in space and time
 
 
 ### References
@@ -55,13 +56,19 @@ Gaube, P., Braun, C.D., Lawson, G.L., McGillicuddy, D.J., Della Penna, A., Skoma
 
 
 ### Required Packages
-Folium:
-conda install folium -c conda-forge
+Install:
+conda install package -c conda-forge
 
+Packages:
+folium
 matplotlib
-
 ftplib
-
 getpass
+numpy
+netCDF4
+datetime
+pandas
+os
+xarray
 
 
